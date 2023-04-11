@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">modul2_no1</string>
+    <string name="judul">Profile</string>
+    <string name="baris1kolom1">Nama</string>
+    <string name="baris1kolom2">M. Nur Syamsi Maulidi</string>
+    <string name="baris2kolom1">Nim</string>
+    <string name="baris2kolom2">210441100124</string>
+    <string name="baris3kolom1">Alamat</string>
+    <string name="baris3kolom2">Pamekasan</string>
+    <string name="baris4kolom1">Prodi</string>
+    <string name="baris4kolom2">Sistem Informasi</string>
+</resources>
