@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">modul3</string>
+    <string name="judul">Google</string>
+    <string name="button1">Deskripsi</string>
+    <string name="button2">Google</string>
+    <string name="desk">aplikasi ini untuk menghubungkan dengan google</string>
+</resources>
