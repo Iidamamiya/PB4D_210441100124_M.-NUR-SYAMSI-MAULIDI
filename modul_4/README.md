@@ -1,0 +1,1 @@
+ini adalah implementasi fragment serta bagaimana mengirim data antar fragment 
